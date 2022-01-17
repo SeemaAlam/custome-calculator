@@ -1,0 +1,26 @@
+html, 
+body{
+  height: 100%;
+}
+
+body{
+  font: 20px sans-serif;
+  color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+}
+
+.redux{
+  background:red;
+  text-align: center;
+  padding: 2em;
+}
+
+  button {
+    margin: .2em;
+    padding: 1em;    
+    font-size: 120%;
+    min-width: 3em;
+    cursor: pointer;
+  }  
